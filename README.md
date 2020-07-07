@@ -1,6 +1,6 @@
 # ShotGlass
 
-ShotGlass is a simple, mental refreshment app: https://roccolosito.github.io/meditationApp/
+ShotGlass is a simple, mental refreshment app: https://roccolosito.github.io/meditationApp/.
 
 ## Description
 
